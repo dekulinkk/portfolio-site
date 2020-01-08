@@ -1,0 +1,66 @@
+/* Aligning everything to the center */
+html {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #243447;
+  color: #ffffffd5;
+}
+/* Adding more space between the Header, H1, and the first paragraph */
+h1 {
+  margin: 100px 0px 25px 0px;
+  font-size: 75px;
+}
+
+header,
+footer {
+  letter-spacing: 2px;
+  word-spacing: 20px;
+  font-size: x-small;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+/* Making the links white */
+a {
+  color: #ffffffd5;
+}
+
+/* Bold lettering */
+.bold {
+  font-weight: bold;
+}
+
+/* making the bullets stay with the list items */
+ul.inside {
+  list-style-position: inside;
+  margin-bottom: 0px;
+}
+
+.small-font {
+  font-size: small;
+}
+
+.xlarge-font {
+  font-size: x-large;
+}
+
+.larger-font {
+  font-size: larger;
+}
+
+/* spacing between info in contact-me page */
+.h-spacing {
+  margin-top: 50px;
+  line-height: 0em;
+}
+
+ul.outside {
+  list-style: outside;
+}
+
+.start-left {
+  text-align: left;
+  align-items: center;
+}
