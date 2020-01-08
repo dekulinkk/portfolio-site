@@ -59,8 +59,3 @@ ul.inside {
 ul.outside {
   list-style: outside;
 }
-
-.start-left {
-  text-align: left;
-  align-items: center;
-}
